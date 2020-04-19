@@ -11,3 +11,6 @@ This project is a homework assignment to teach how to get Pycharm setup with Doc
 
 # Postman Screenshot
 ![pycharm data query](screenshots/Postman218.PNG)
+
+# Website Screenshot
+![pycharm data query](screenshots/website218PNG.PNG)
