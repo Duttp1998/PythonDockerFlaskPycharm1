@@ -14,3 +14,18 @@ This project is a homework assignment to teach how to get Pycharm setup with Doc
 
 # Website Screenshot
 ![pycharm data query](screenshots/website218PNG.PNG)
+
+# Final Project
+![pycharm data query](screenshots/picture1.png)
+![pycharm data query](screenshots/picture2.png)
+![pycharm data query](screenshots/picture3.png)
+![pycharm data query](screenshots/picture4.png)
+![pycharm data query](screenshots/picture5.png)
+![pycharm data query](screenshots/picture6.png)
+![pycharm data query](screenshots/picture7.png)
+![pycharm data query](screenshots/picture8.png)
+![pycharm data query](screenshots/picture9.png)
+
+
+
+
